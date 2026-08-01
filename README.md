@@ -1,58 +1,42 @@
-# 🧠 AI Prompt Library — 205 Premium English Prompts for ChatGPT, Claude & Gemini
+# AI Prompt Library — 205 Premium English Prompts (PDF)
 
-> **Stop wasting hours on trial-and-error prompting.**
-> Get 205 battle-tested, copy-paste prompts that make your AI output 10x sharper — in seconds, not hours.
+**Stop wrestling with ChatGPT. Start pasting prompts that work.**
 
-![Prompts](https://img.shields.io/badge/prompts-205-brightgreen) ![Categories](https://img.shields.io/badge/categories-12-blue) ![Format](https://img.shields.io/badge/format-PDF-orange) ![Use](https://img.shields.io/badge/works_with-ChatGPT%20%7C%20Claude%20%7C%20Gemini-blue)
+## 🎯 What is this?
 
----
+A curated collection of **205 premium, copy-paste English prompts** for ChatGPT, Claude, and Gemini — organized into 12 chapters so you always know which prompt to use.
 
-## The Problem 😩
+## 📚 What's inside (12 chapters)
 
-You type *"write me a blog post"* into ChatGPT… and get back generic, forgettable, soulless text.
+| Chapter | Prompts | Use it for |
+|---|---|---|
+| ✍️ Writing & Emails | 25 | Emails, articles, storytelling that sounds human |
+| 📈 Marketing & Copy | 20 | Ads, headlines, landing pages, social posts |
+| 💻 Programming | 25 | Code review, debugging, refactoring, SQL |
+| 🎓 Learning & Study | 20 | Feynman explainers, flashcards, tutoring |
+| 📊 Data Analysis | 15 | Excel, SQL, charts, insight extraction |
+| 🗣️ Communication | 18 | Meetings, negotiations, difficult conversations |
+| 🧠 Brainstorming | 15 | Ideas, naming, strategy frameworks |
+| 🌐 Translation | 12 | Natural, context-aware translation |
+| 📝 Resume & Career | 12 | Resumes, interviews, LinkedIn |
+| 🤝 Sales & Business | 18 | Cold outreach, follow-ups, proposals |
+| 📚 Research | 12 | Summaries, lit review, counter-arguments |
+| 🎨 Creative Writing | 13 | Fiction, dialogue, poetry |
 
-You try again with a slightly different prompt… another 20 minutes gone.
+**205 total · 29 pages · every prompt copy-paste ready**
 
-**Sound familiar?** The problem isn't your AI — it's your prompts. 90% of people use lazy prompts and get lazy output.
+## ✅ Why it's worth it
 
-## The Solution ✅
+- **Saves hours** — no more trial-and-error prompt engineering
+- **Structured** — Role + Task + Format + Constraints, proven to get better output
+- **Universal** — works with ChatGPT, Claude, Gemini
+- **Bonus**: the 4-part prompt framework explained inside
 
-The **AI Prompt Library** is a 29-page PDF with **205 professionally engineered prompts**, each one designed to unlock the full capability of modern LLMs.
+## 📥 Get it
 
-Every prompt includes:
-- 🎯 **A copy-paste template** — works immediately, zero setup
-- 🔧 **Customization parameters** — swap in your topic, tone, audience
-- 📊 **Expected output quality** — so you know exactly what to ask for
+👉 **Full PDF with all 205 prompts: http://82.157.101.183:8088/图灵/web/**
 
-## What's Inside 📚
-
-| # | Category | Example Use |
-|---|----------|-------------|
-| 1 | ✍️ Writing | Blog posts, essays, storytelling with a defined voice |
-| 2 | 📣 Marketing | Ad copy, email sequences, social media hooks |
-| 3 | 💻 Coding | Functions, code review, regex, refactoring |
-| 4 | 🎓 Learning | Socratic tutoring, flashcards, paper summaries |
-| 5 | 📊 Data Analysis | Clean data, explain metrics, build reports |
-| 6 | 💼 Career | Resume, LinkedIn, cover letter, salary negotiation |
-| 7 | 🗣️ Communication | Emails, meetings, difficult conversations |
-| 8 | 🎨 Creative | Brainstorming, ideation, naming, storytelling |
-| 9 | ⚡ Productivity | Task breakdown, prioritization, automation |
-| 10 | 🌐 Localization | Natural translations, tone adaptation |
-| 11 | 🧠 Thinking | Problem-solving frameworks, decision matrices |
-| 12 | 🛠️ More | 40+ extra everyday life prompts |
-
-## Free Samples 🎁
-
-Read the free sample article: **[20 Copy-Paste AI Prompts That Actually Work](https://gist.github.com/meiqiu912/dcef6d55b36d330f6ffc90d0ab2e245a)**
-
-## Get the Full Version 📥
-
-- 205 prompts (29 pages, PDF)
-- Works with ChatGPT, Claude & Gemini
-- One-time purchase · lifetime access · free updates
-
-👉 **Buy now →** http://82.157.101.183:8088/图灵/web/
+Free sample: read my gist with 15 free prompts → https://gist.github.com/meiqiu912/77a751e4217eb92b529b9c0239690974
 
 ---
-
-*Questions? Open an issue or reach out via the sales page contact email.*
+*Questions? Open an issue or reach out via the sales page.*
