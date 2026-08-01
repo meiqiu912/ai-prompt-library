@@ -1,41 +1,40 @@
-# 🧠 AI Prompt Library — 205 Premium English Prompts
+# AI Prompt Library — 205 Premium English Prompts (PDF)
 
-> Copy-paste prompts for ChatGPT, Claude & Gemini. Stop trial-and-error prompting, get professional-grade AI output in seconds.
+**让 ChatGPT / Claude / Gemini 写出地道英文，复制粘贴即用。**
 
-![Prompts](https://img.shields.io/badge/prompts-205-brightgreen) ![Categories](https://img.shields.io/badge/categories-12-blue) ![Format](https://img.shields.io/badge/format-PDF-orange)
+> 205 条精选英文提示词 · 12 大场景 · 每条附使用场景 + 模板 + 占位符说明
 
-## Why this library?
+## 这本电子书解决什么问题？
 
-Most people use AI with lazy prompts like *"write a blog post"* — and get generic, forgettable output. The **AI Prompt Library** gives you 205 battle-tested prompts, each one engineered to unlock the full capability of modern LLMs.
+你不需要会"写"提示词，只需要会**复制粘贴**。
+这本书把 205 条经过实战打磨的英文提示词分好类、写清用法，你拿去改 2-3 个词就能用。
 
-## What's inside
+### 覆盖 12 大场景
+- ✉️ **英文邮件**：开发信、跟进、催款、道歉、拒绝邀约
+- 📢 **营销文案**：产品描述、广告语、落地页、冷启动开发信
+- 📝 **博客与写作**：大纲、长文、改写润色、标题生成
+- 🎓 **学术与学习**：essay 润色、摘要精简、英语对话练习
+- 💼 **职场沟通**：周报、会议纪要、LinkedIn 简介、简历优化
+- 🛠️ **更多**：数据分析、代码注释、翻译本地化、社媒发帖……
 
-| # | Category | Example use |
-|---|----------|-------------|
-| 1 | ✍️ Writing | Blog posts, essays, storytelling with a defined voice |
-| 2 | 📣 Marketing | Ad copy, email sequences, social content that converts |
-| 3 | 💻 Coding | Refactoring, debugging, architecture, code review |
-| 4 | 💼 Business | Strategy, pricing, proposals, client communication |
-| 5 | 🎓 Learning | Explain-like-I'm-5, Socratic tutoring, spaced repetition |
-| 6 | ⚡ Productivity | Meeting notes, task planning, inbox zero |
-| ... | +6 more categories | Role prompts, data analysis, creative, translation & more |
+### 为什么选它？
+- ✅ 专治"AI 味太重"：减少 AI 腔、符合母语者表达习惯、语气可控
+- ✅ 每条 = 使用场景 + 提示词模板 + 可替换占位符说明，零基础直接上手
+- ✅ 适用于 ChatGPT / Claude / Gemini，一次购买永久使用，后续免费升级
 
-Every prompt includes:
-- **A copy-paste template** (works immediately)
-- **Customization parameters** (swap in your topic/context)
-- **Expected output quality** (so you know what to ask for)
+## 免费样章
 
-## Free sample
+先看这篇免费干货：《让 ChatGPT 写出地道英文：20 个复制即用的提示词模板》
+👉 https://gist.github.com/meiqiu912/943d1e9de77bc429bbe94c0647dca48b
 
-Try before you buy: **[20 High-Impact AI Prompts (Free)](https://gist.github.com/meiqiu912/019ae9edae0d45bf0072768a6ff19a96)**
+## 购买
 
-## Get the full library
+**¥19.9**（原价 ¥49，早期用户价）· 支付宝付款 · 付款后 PDF 发邮箱
 
-**205 prompts · 12 categories · 29-page PDF · ¥19.9 (≈$3)** — delivered to your inbox within 24h of payment.
+👉 购买链接：http://82.157.101.183:8088/%E5%9B%BE%E7%81%B5/web/
 
-👉 **Buy now: [http://82.157.101.183:8088/图灵/web/](http://82.157.101.183:8088/图灵/web/)**
+一次购买，永久使用，不满意可退款。
 
-Questions? Open an issue or email the sales page contact.
+---
 
-## License
-© AI Prompt Library. Personal use only. No redistribution.
+*AI Prompt Library · 让每次 AI 对话都物超所值*
