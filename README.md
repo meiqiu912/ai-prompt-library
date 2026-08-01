@@ -1,42 +1,43 @@
-# AI Prompt Library — 205 Premium English Prompts (PDF)
+# 🧠 AI Prompt Library — 205 Premium Prompts for ChatGPT, Claude & Gemini
 
-**Stop wrestling with ChatGPT. Start pasting prompts that work.**
+> **Stop wasting hours on trial-and-error prompting.** Get 205 battle-tested, copy-paste prompts that make your AI output 10x sharper — in seconds, not hours.
 
-## 🎯 What is this?
+## The Problem
+You type "write me a blog post" into ChatGPT… and get generic, forgettable, soulless text. You try again with a slightly different prompt… another 20 minutes gone.
 
-A curated collection of **205 premium, copy-paste English prompts** for ChatGPT, Claude, and Gemini — organized into 12 chapters so you always know which prompt to use.
+**The problem isn't your AI — it's your prompts.** 90% of people use lazy prompts and get lazy output.
 
-## 📚 What's inside (12 chapters)
+## The Solution
+The **AI Prompt Library** is a 29-page PDF with **205 professionally engineered prompts**, each designed to unlock the full capability of modern LLMs.
 
-| Chapter | Prompts | Use it for |
-|---|---|---|
-| ✍️ Writing & Emails | 25 | Emails, articles, storytelling that sounds human |
-| 📈 Marketing & Copy | 20 | Ads, headlines, landing pages, social posts |
-| 💻 Programming | 25 | Code review, debugging, refactoring, SQL |
-| 🎓 Learning & Study | 20 | Feynman explainers, flashcards, tutoring |
-| 📊 Data Analysis | 15 | Excel, SQL, charts, insight extraction |
-| 🗣️ Communication | 18 | Meetings, negotiations, difficult conversations |
-| 🧠 Brainstorming | 15 | Ideas, naming, strategy frameworks |
-| 🌐 Translation | 12 | Natural, context-aware translation |
-| 📝 Resume & Career | 12 | Resumes, interviews, LinkedIn |
-| 🤝 Sales & Business | 18 | Cold outreach, follow-ups, proposals |
-| 📚 Research | 12 | Summaries, lit review, counter-arguments |
-| 🎨 Creative Writing | 13 | Fiction, dialogue, poetry |
+Every prompt includes:
+- 🎯 A **copy-paste template** — works immediately, zero setup
+- 🔧 **Customization parameters** — swap in your topic, tone, audience
+- 📊 **Expected output quality** — so you know exactly what to ask for
 
-**205 total · 29 pages · every prompt copy-paste ready**
+## What's Inside (12 Categories)
+1. ✍️ **Writing** — blog posts, essays, storytelling with a defined voice
+2. 📣 **Marketing** — ad copy, email sequences, hooks that convert
+3. 💻 **Coding** — debugging, code review, architecture, refactoring
+4. 🎓 **Learning** — spaced repetition, Feynman technique, quiz generation
+5. 📊 **Data Analysis** — insights, visualization, statistical reasoning
+6. 🎨 **Creativity** — brainstorming, ideation, story generation
+7. 🗣️ **Communication** — emails, summaries, negotiations
+8. 🧠 **Critical Thinking** — red teaming, assumption testing
+9. 💼 **Business** — strategy, pricing, product ideas
+10. 🌍 **Translation & Localization**
+11. 📅 **Productivity** — planning, prioritization, time management
+12. 🔬 **Research** — literature review, hypothesis generation
 
-## ✅ Why it's worth it
+## Price & Delivery
+- **Price: ¥29 (~$4 USD)** — one-time payment, lifetime access
+- **Format:** PDF, readable on phone & computer
+- **Delivery:** Download link sent to your email within 24 hours of payment
 
-- **Saves hours** — no more trial-and-error prompt engineering
-- **Structured** — Role + Task + Format + Constraints, proven to get better output
-- **Universal** — works with ChatGPT, Claude, Gemini
-- **Bonus**: the 4-part prompt framework explained inside
+👉 **Get the full library: http://82.157.101.183:8088/图灵/web/goods/pay-1785601576341-AIPromptLibrary205PremiumEnglishPromptsPDF.html**
 
-## 📥 Get it
+## Free Sample
+Check out my gist with 12 free copy-paste prompts:
+👉 https://gist.github.com/meiqiu912/ba2b10fbff4c866dc87c007d22b2417d
 
-👉 **Full PDF with all 205 prompts: http://82.157.101.183:8088/图灵/web/**
-
-Free sample: read my gist with 15 free prompts → https://gist.github.com/meiqiu912/77a751e4217eb92b529b9c0239690974
-
----
-*Questions? Open an issue or reach out via the sales page.*
+*Note: If the sales page is slow to load from outside China, email me and I'll arrange direct delivery.*
