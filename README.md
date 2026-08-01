@@ -1,40 +1,36 @@
-# AI Prompt Library — 205 Premium English Prompts (PDF)
+# AI Prompt Library — 205 Premium Prompts for ChatGPT, Claude & Gemini
 
-**让 ChatGPT / Claude / Gemini 写出地道英文，复制粘贴即用。**
+**12 chapters · 29 pages · copy-paste ready**
 
-> 205 条精选英文提示词 · 12 大场景 · 每条附使用场景 + 模板 + 占位符说明
+A curated collection of **205 high-quality prompts** that actually work with ChatGPT, Claude, and Gemini. Each prompt is tested, structured, and ready to use — no more staring at a blank chat box.
 
-## 这本电子书解决什么问题？
+## 📚 What's inside
 
-你不需要会"写"提示词，只需要会**复制粘贴**。
-这本书把 205 条经过实战打磨的英文提示词分好类、写清用法，你拿去改 2-3 个词就能用。
+| Chapter | What you get |
+|---|---|
+| ✍️ Writing | Hooks, emails, headlines, proofreading, storytelling |
+| 📣 Marketing | Ad copy, landing pages, SEO content, social posts |
+| 💻 Coding | Debugging, code review, refactoring, documentation |
+| 🎓 Learning | Concept explainers, spaced repetition, quizzes, roadmaps |
+| 📊 Data Analysis | SQL, Excel, insights, dashboard thinking |
+| 🚀 Productivity | Meeting notes, task planning, decision frameworks |
+| 🧠 Research | Literature review, fact-checking, synthesis |
+| 📱 Social Media | Content calendars, engagement, viral hooks |
+| 🎨 Design | Color palettes, UI copy, creative briefs |
+| 💼 Business | Strategy, pricing, proposals, negotiation |
+| 🌱 Personal Growth | Goal setting, journaling, habit design |
+| 🎉 Fun | Icebreakers, games, creative challenges |
 
-### 覆盖 12 大场景
-- ✉️ **英文邮件**：开发信、跟进、催款、道歉、拒绝邀约
-- 📢 **营销文案**：产品描述、广告语、落地页、冷启动开发信
-- 📝 **博客与写作**：大纲、长文、改写润色、标题生成
-- 🎓 **学术与学习**：essay 润色、摘要精简、英语对话练习
-- 💼 **职场沟通**：周报、会议纪要、LinkedIn 简介、简历优化
-- 🛠️ **更多**：数据分析、代码注释、翻译本地化、社媒发帖……
+## 🎁 Free samples
 
-### 为什么选它？
-- ✅ 专治"AI 味太重"：减少 AI 腔、符合母语者表达习惯、语气可控
-- ✅ 每条 = 使用场景 + 提示词模板 + 可替换占位符说明，零基础直接上手
-- ✅ 适用于 ChatGPT / Claude / Gemini，一次购买永久使用，后续免费升级
+Try **20 free prompts** from the library first → [ai-prompt-samples.md](https://gist.github.com/meiqiu912) (check the gist "205 Premium AI Prompts — 20 Free Samples Inside")
 
-## 免费样章
+## 💳 Get the full PDF
 
-先看这篇免费干货：《让 ChatGPT 写出地道英文：20 个复制即用的提示词模板》
-👉 https://gist.github.com/meiqiu912/943d1e9de77bc429bbe94c0647dca48b
+👉 **Download the AI Prompt Library → http://82.157.101.183:8088/图灵/web/**
 
-## 购买
-
-**¥19.9**（原价 ¥49，早期用户价）· 支付宝付款 · 付款后 PDF 发邮箱
-
-👉 购买链接：http://82.157.101.183:8088/%E5%9B%BE%E7%81%B5/web/
-
-一次购买，永久使用，不满意可退款。
+Digital product, instant delivery after purchase. Personal use license.
 
 ---
 
-*AI Prompt Library · 让每次 AI 对话都物超所值*
+*Built for people who use AI every day and want better outputs without the trial-and-error.*
