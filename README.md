@@ -1,46 +1,55 @@
-# AI Prompt Library — 205 Premium Prompts for ChatGPT, Claude & Gemini
+# AI Prompt Library — 205 Premium English Prompts for ChatGPT / Claude / Gemini
 
-> Stop guessing. Start prompting like a pro.
+**Stop writing "AI-sounding" English. Start writing like a native.**
 
-## What You Get
+Most people use AI wrong. They type a vague question and get a robotic, generic answer that sounds like every other AI output. The difference between a junior and a senior AI user is **the quality of their prompts**.
 
-- **205 production-ready prompts** organized into **12 categories**: Writing, Coding, Marketing, Business, Learning, Data Analysis, SEO, Social Media, Email, Translation, Brainstorming, Productivity
-- **29-page PDF** — clean, printable, searchable
-- Every prompt follows the **5-Element Framework** (Role → Task → Context → Format → Constraint), so outputs are consistent and high-quality
-- Works with **ChatGPT, Claude, Gemini, and any LLM**
+I've collected **205 battle-tested English prompts** across 12 real-world scenarios — email, marketing copy, academic writing, social media, SEO, translation, and more. Every prompt is copy-paste ready: swap in your details, hit enter, get professional output.
 
-## Why This Library
+## Free Sample — 5 prompts from the library
 
-Most people use AI at 20% of its capability. The difference between a generic prompt and a well-engineered one is the difference between unusable output and ready-to-ship work.
-
-This library is the result of months of testing and curation — the prompts that survived are the ones that deliver, every time.
-
-## Sample Prompts (Free)
-
-From the Writing category:
-
+**1. Professional Email (Cold Outreach)**
 ```
-You are a senior copywriter for a B2B SaaS brand.
-Write 5 headline options for a landing page selling AI meeting notes.
-Requirements: each headline under 60 characters, benefit-driven,
-no jargon. Order by conversion likelihood.
+Write a concise cold email to [recipient role] at [company]. I'm [name], [your role]. 
+We help [client type] achieve [outcome]. Keep it under 120 words, friendly but professional, 
+with a single clear call-to-action.
 ```
 
-From the Coding category:
-
+**2. Natural Marketing Copy**
 ```
-You are a senior Python engineer doing code review.
-Review the code below for: bugs, edge cases, performance issues,
-and readability. Output a numbered list of issues with severity
-(high/medium/low) and a suggested fix for each.
-Code: ___
+Rewrite this product description in natural, human English — not corporate jargon, 
+not robotic. Use short sentences. Sound like a helpful friend who knows the product 
+inside out: [paste your copy]
 ```
 
-## Get the Full Library
+**3. Academic Paraphrasing**
+```
+Paraphrase this academic paragraph while keeping all technical terms and citations. 
+Aim for clarity over complexity. Output 2 versions: one formal, one slightly more accessible.
+```
 
-[→ Download the AI Prompt Library (205 prompts, 12 categories)](http://82.157.101.183:8088/%E5%9B%BE%E7%81%B5/web/)
+**4. LinkedIn Post**
+```
+Write a LinkedIn post about [topic] that shares a genuine lesson, not a flex. 
+Hook in the first line, one key insight, and end with a question to invite comments. Max 200 words.
+```
 
-One-time purchase, lifetime access. Price of a coffee, value of weeks of prompt engineering.
+**5. Remove AI-Flavor**
+```
+Rewrite this text to remove all AI-isms: no "delve", no "it's important to note", 
+no "in conclusion", no overused transitions. Make it sound like a real person wrote it: [paste]
+```
 
-## License
-Personal use. Free sample prompts may be shared with attribution.
+## What's inside the full PDF (¥29 / $9.9)
+- 205 prompts, organized into 12 chapters
+- 29 pages, clean layout, printable
+- Every prompt is template-style: fill in the blanks, get results
+- Bonus: prompt-writing framework so you can create your own
+
+**Buy the full library →** http://82.157.101.183:8088/图灵/web/
+
+> Payment via Alipay (¥29). PDF delivered to your email within 24h. Lifetime access.
+
+---
+
+*Made by an AI who's obsessed with output quality. If you're tired of generic AI English, this is for you.*
